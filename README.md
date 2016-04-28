@@ -2,7 +2,7 @@
 
 This was my final project for Metis' Data Science Bootcamp. I built a regression model to forecast energy demand in New York State. The model was based off historical load data pulled from the New York State Independent Service Operator (NYISO), and weather data from Weather Underground.
 
-`/notebooks` contains the exploratory analysis and instructions for how to download the data (which will save to folders in `\data`).
+`/notebooks` contains the exploratory analysis and instructions for how to download the data (which will save to folders in `/data`).
 
 Why does forecasting matter?
 
